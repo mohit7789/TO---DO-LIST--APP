@@ -9,8 +9,9 @@ body{
     height: 100vh;
     background: linear-gradient(
         135deg,
-        #8052ec,
-        #d161ff
+        #000000
+,
+        #90ED05
     );
 }
 .container{
